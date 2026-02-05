@@ -7,16 +7,16 @@ I am a dedicated **Web Development student (DAW)** based in Barcelona with a str
 ---
 
 ## 🛠️ About Me
-- 🎓 Currently studying **Development of Web Applications (DAW)** at Monlau[cite: 21].
-- 💡 Background in **Technological Baccalaureate**[cite: 22].
-- 🌍 Trilingual: Native in **Catalan** and **Spanish**, with a **C1 Advanced** level in **English**[cite: 29, 31, 33, 34].
-- 🧩 Experienced in project organization and strategic planning through 9 years of community leadership[cite: 14, 25].
+- 🎓 Currently studying **Development of Web Applications (DAW)** at Monlau.
+- 💡 Background in **Technological Baccalaureate**.
+- 🌍 Trilingual: Native in **Catalan** and **Spanish**, with a **C1 Advanced** level in **English**.
+- 🧩 Experienced in project organization and strategic planning through 9 years of community leadership.
 
 ---
 
 ## 💻 Technical Skills & Learning Path
-- [cite_start]**Languages:** Currently mastering web technologies through my DAW studies[cite: 2, 21].
-- [cite_start]**Soft Skills:** Analytical thinking, conceptual thinking, strategic orientation, and a strong commitment to teamwork[cite: 23, 24, 26, 27].
+- [cite_start]**Languages:** Currently mastering web technologies through my DAW studies.
+- [cite_start]**Soft Skills:** Analytical thinking, conceptual thinking, strategic orientation, and a strong commitment to teamwork.
 
 ---
 
