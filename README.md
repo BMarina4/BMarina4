@@ -7,10 +7,10 @@ I am a dedicated **Web Development student (DAW)** based in Barcelona with a str
 ---
 
 ## 🛠️ About Me
-- [cite_start]🎓 Currently studying **Development of Web Applications (DAW)** at Monlau[cite: 21].
-- [cite_start]💡 Background in **Technological Baccalaureate**[cite: 22].
-- [cite_start]🌍 Trilingual: Native in **Catalan** and **Spanish**, with a **C1 Advanced** level in **English**[cite: 29, 31, 33, 34].
-- [cite_start]🧩 Experienced in project organization and strategic planning through 9 years of community leadership[cite: 14, 25].
+- 🎓 Currently studying **Development of Web Applications (DAW)** at Monlau[cite: 21].
+- 💡 Background in **Technological Baccalaureate**[cite: 22].
+- 🌍 Trilingual: Native in **Catalan** and **Spanish**, with a **C1 Advanced** level in **English**[cite: 29, 31, 33, 34].
+- 🧩 Experienced in project organization and strategic planning through 9 years of community leadership[cite: 14, 25].
 
 ---
 
@@ -21,21 +21,21 @@ I am a dedicated **Web Development student (DAW)** based in Barcelona with a str
 ---
 
 ## 🌟 Professional Highlights
-- [cite_start]**Education:** Provided English reinforcement (B1-B2 level) focusing on grammar and oral expression[cite: 11, 12].
-- [cite_start]**Leadership:** Organized multi-day routes and excursions, managing budgets for large groups over several years[cite: 13, 14].
-- [cite_start]**Community:** Actively involved in holiday volunteering and logistics for local organizations[cite: 15, 16].
+- **Education:** Provided English reinforcement (B1-B2 level) focusing on grammar and oral expression.
+- **Leadership:** Organized multi-day routes and excursions, managing budgets for large groups over several years.
+- **Community:** Actively involved in holiday volunteering and logistics for local organizations.
 
 ---
 
 ## 📊 Certifications
-- [cite_start]✅ **English C1 Certificate** [cite: 18]
+- ✅ **English C1 Certificate** 
 
 ---
 
 ## 📫 Connect with me
-- [cite_start]📍 Barcelona, Spain [cite: 7]
-- [cite_start]📧 Email: [marinabenvil@monlau.com](mailto:marinabenvil@monlau.com) [cite: 6]
-- 💼 LinkedIn: [Your LinkedIn Profile Link Here]
+- 📍 Barcelona, Spain 
+- 📧 Email: [marinabenvil@monlau.com](mailto:marinabenvil@monlau.com) 
+
 
 ---
 *“Committed to continuous learning and building better web experiences.”*
